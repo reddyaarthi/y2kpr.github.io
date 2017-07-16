@@ -5,6 +5,13 @@ layout: default
 {{ content }}
 </div>
 
+<div id="comments">
+  <h2>Comments</h2>
+  name: <input type="text" id="name"> <br>
+  comment: <input type="text" id="comment">
+  <button type="button" id="submitComment" onclick="submitCommentClicked()">Submit</button>
+</div>
+
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
@@ -13,3 +20,12 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<script type="text/javascript">
+  function submitCommentClicked() {
+    console.log("name: " + document.getElementById("name").value
+      + " comment: " + document.getElementById("comment").value);
+    document.getElementById("name").value = "";
+    document.getElementById("comment").value = "";
+  };
+</script>
