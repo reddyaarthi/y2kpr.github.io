@@ -3,17 +3,18 @@
 It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
 into a static site whenever I push this repository to GitHub.
 
-I was tired of having my blog posts end up in a database off on some remote
-server. That is backwards. I've lost valuable posts that way. I want to author
-my posts locally in Textile or Markdown. My blog should be easily stylable and
-customizable any way I please. It should take care of creating a feed for me.
-And most of all, my site should be stored on GitHub so that I never lose data
-again.
-
 This repo is built on top of a fork of http://github.com/mojombo/jekyll. Thanks mojombo for open sourcing it!
+
+# How to run the website locally
+
+1. Install the bundler using: `gem install bundler`. If gem command does not exist, install ruby first.
+
+2. At the root of this repository, run `bundle install` to install the necessary dependencies from the Gemfile.
+
+3. Run the website locally using: `bundle exec jekyll serve`.
+
+4. Preview the website at http://localhost:4000.
 
 ## License
 
-All directories and files are MIT Licensed. Feel free to use the HTML and
-CSS as you please. If you do use them, a link back to
-http://github.com/mojombo/jekyll would be appreciated, but is not required.
+All directories and files are MIT Licensed. This blog is forked from [mojombo.github.io](http://mojombo.github.io) Feel free to use the HTML and CSS as you please. Do not use any posts without my permission (thanks :)).
