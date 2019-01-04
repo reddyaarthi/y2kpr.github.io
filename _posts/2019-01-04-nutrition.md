@@ -24,7 +24,7 @@ The rest of the blog post is a list of takeaways from the class based on the abo
 
 ## Fitness
 
-I found the discussion of fitness in this class pretty neat. In class we defined fitness as "ability to meet physical demands with enough reserve energy to rise to a physical challenge." This is intentionally vague and it depends on each person's physical demands and challenges. Maintaining fitness can have a holistic improvement on ourselves and reduces risk of diseases. There are broadly aspects of fitness:
+I found the discussion of fitness in this class pretty neat. In class we defined fitness as the "ability to meet physical demands with enough reserve energy to rise to a physical challenge." This is intentionally vague and it depends on each person's physical demands and challenges. Maintaining fitness can have a holistic improvement on ourselves and reduces risk of diseases. There are broadly aspects of fitness:
 
 **Cardiorespiratory endurance:** is the ability of the heart, lungs and blood vessels to deliver oxygen throughout the body. Put in another way, it is the length of time a person can remain active with an elevated heart rate (any intense physical activity). We discussed two ways to gauge this endurance: measuring [resting heart rate](https://www.verywellfit.com/resting-heart-rate-3432632) (lower the better) and [VO2 max](https://www.verywellfit.com/what-is-vo2-max-3120097) (higher the better) which measures the oxygen consumption during peak intensity. A good way to improve this aspect of fitness is to do aerobic exercises like running, crossfit, dancing, etc. for 20 or more minutes. Such exercises condition the heart to work more efficiently which gradually improves the cardiorespiratory endurance. The [American College of Sports Medicine](https://www.acsm.org/) (ACSM) recommends doing five to seven days of 30-minute moderate intensity workouts involving large muscle groups (soccer, running, cycling, tennis, volleyball, etc). I definitely do not meet this recommendation.
 
@@ -42,7 +42,7 @@ I mentioned both of these somewhat bleak facts not to give up our efforts. I men
 
 ## Water and Thirst
 
-On average, we lose 2.5 litres of water per day. To replenish the lost water, it is good to have a minimum of 2 - 3 litres (8 - 12 cups) of water per day. Another thing I learned in this class is that you cannot rely on thirst as an indicator to drink water. **Thirst response lags behind the body's need for water**. Some of the other indications include being tired, hungry or a lack of focus. So try drinking water before going for coffee or food when feeling tired or hungry.
+On average, we lose 2.5 litres of water per day. To replenish the lost water, it is good to have a minimum of 2 - 3 litres (8 - 12 cups) of water per day. Another thing I learned in this class is that you cannot rely on thirst as an indicator to drink water. **Thirst response lags behind the body's need for water**. Some of the other indications include being tired, hungry or lacking focus. So try drinking water before going for coffee or food when feeling tired or hungry.
 
 ## Fluid Balance: Sodium vs Potassium
 
