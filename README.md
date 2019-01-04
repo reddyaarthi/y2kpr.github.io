@@ -17,4 +17,4 @@ This repo is built on top of a fork of http://github.com/mojombo/jekyll. Thanks 
 
 ## License
 
-All directories and files are MIT Licensed. This blog is forked from [mojombo.github.io](http://mojombo.github.io) Feel free to use the HTML and CSS as you please. Do not use any posts without my permission (thanks :)).
+All directories and files (except posts) are MIT Licensed. This blog is forked from [mojombo.github.io](http://mojombo.github.io) Feel free to use the HTML and CSS as you please. Do not use any posts without my permission (thanks :)).
